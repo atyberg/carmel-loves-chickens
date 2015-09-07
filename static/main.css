@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+header {
+  font-size: 0.9em;
+  margin: 20px 0;
+}
+
+.jumbotron {
+  background-color:transparent !important;
+  padding-bottom: 80px;
+}
+
+.clc-logo {
+/*  background-image: url(images/chicken.svg);
+  background-position: 90% top;
+  background-repeat: no-repeat;
+  background-size: auto 180px;
+  margin-bottom: 0px;
+*/}
+
+.clc-logo img {
+  padding: 10px;
+}
