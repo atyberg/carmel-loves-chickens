@@ -24,3 +24,13 @@ header {
 .clc-logo img {
   padding: 10px;
 }
+
+.content {
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+  text-align: justify;
+}
+
+.content > h3 {
+  margin-top: 30px;
+}
