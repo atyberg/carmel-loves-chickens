@@ -14,12 +14,7 @@ header {
 }
 
 .clc-logo {
-/*  background-image: url(images/chicken.svg);
-  background-position: 90% top;
-  background-repeat: no-repeat;
-  background-size: auto 180px;
-  margin-bottom: 0px;
-*/}
+}
 
 .clc-logo img {
   padding: 10px;
@@ -28,9 +23,22 @@ header {
 .content {
   padding-left: 50px !important;
   padding-right: 50px !important;
+  margin-bottom: 50px;
   text-align: justify;
 }
 
 .content > h3 {
-  margin-top: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px
+}
+
+/* Footer */
+
+.footer {
+  background-color: white !important;
+}
+
+.a2a_floating_style {
+  bottom: 0px; 
+  right: 0px;
 }
