@@ -32,13 +32,9 @@ header {
   margin-bottom: 20px
 }
 
-/* Footer */
-
-.footer {
-  background-color: white !important;
-}
+/* Social bar */
 
 .a2a_floating_style {
-  bottom: 0px; 
-  right: 0px;
+  top: 40%;
+  right: 6px;
 }
