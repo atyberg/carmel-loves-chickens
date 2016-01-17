@@ -32,6 +32,10 @@ header {
   margin-bottom: 20px
 }
 
+.content img {
+  width: 200px;
+}
+
 /* Social bar */
 
 .a2a_floating_style {
